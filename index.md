@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arpit
+title: Nikhil
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
